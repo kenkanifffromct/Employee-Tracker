@@ -10,6 +10,6 @@ You can add or remove employees, add or change their roles, adjust their salarie
 Node server.js
 
 ## Credits
-Thank you to Amanda Wiehrs & Austin Ruhf
+Thank you to Amanda Wiehrs & Austin Ruhf for helping me solve one last issue I had.
 
 ## Screenshot
