@@ -14,15 +14,15 @@ VALUES
 ('HR Rep', 70000, 4),
 ('Warehouse Worker', 50000, 3),
 ('Receptionist', 42000, 6),
-('Accountant', 90000, 7);
+('Accountant', 90000, 5);
 
 INSERT INTO employees(first_name, last_name, role_id) 
 VALUES
-('Vic', 'Berger', 1),
-('Pam', 'Beesly', 5),
-('Jim', 'Halpert', 2),
-('Toby', 'Flenderson', 3),
-('Stanley', 'Hudson', 6),
-('Darryl', 'Philbin', 3);
+('Vic', 'Berger', 2),
+('Ken', 'Bone', 1),
+('Michael', 'Richards', 3),
+('Sean', 'Cena', 5),
+('Daryl', 'Hall', 3),
+('Newt', 'Bentley', 6);
 
 UPDATE `employee_db`.`employees` SET `manager_id` = '1' WHERE (`id` > '1');
