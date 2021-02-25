@@ -13,4 +13,4 @@ Node server.js
 Thank you to Amanda Wiehrs & Austin Ruhf for helping me solve one last issue I had.
 
 ## Screenshot
-![GitHub Logo]()  ![GitHub Logo]()
+![GitHub Logo](Screenshot-(129).png)  ![GitHub Logo](Screenshot-(130).png)
